@@ -1,6 +1,11 @@
 # Gemtest
 
-TODO: Write a gem description
+Testing out making a gem with proper rspec testing etc. If it turns out well
+we can just rename it and continue working.
+
+TODO: Specify version
+TODO: Agree on a standard - editorconfig?
+TODO: Testing instructions
 
 ## Installation
 
@@ -15,6 +20,12 @@ And then execute:
 Or install it yourself as:
 
     $ gem install gemtest
+
+## Testing
+
+Testing is a default task in rake:
+
+    rake
 
 ## Usage
 
