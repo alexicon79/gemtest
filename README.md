@@ -3,9 +3,12 @@
 Testing out making a gem with proper rspec testing etc. If it turns out well
 we can just rename it and continue working.
 
+It uses [editorconfig](http://editorconfig.org/) to make sure standards are followed.
+
 TODO: Specify version
 TODO: Agree on a standard - editorconfig?
 TODO: Testing instructions
+TODO: Travis testing
 
 ## Installation
 
